@@ -1,2 +1,5 @@
 # NTSC-Game-Library
-efficient and scalable analog video game library for use with STM32 microcontroller
+A high-performance NTSC video game library written in C, designed for real-time gaming on STM32 microcontrollers with classic analog TVs. This project implements full NTSC signal generation over SPI, enabling smooth color graphics, dynamic sprite manipulation, and synchronized sound output. Persistent game state storage is supported through I2C communication with external non-volatile memory, allowing for reliable game save functionality. The library is optimized for precise timing and efficient resource usage on embedded hardware. Presented at Purdue SPARK Challenge for ECE students.
+
+
+
